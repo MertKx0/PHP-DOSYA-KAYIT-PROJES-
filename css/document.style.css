@@ -1,0 +1,444 @@
+
+
+.menuler{
+    width: 100%;
+    height: 100%;
+    border: 1px solid #716d6d;
+    border-radius: 10px;
+    background-color: rgb(166, 201, 201);
+    float: left;
+    display:block;
+    margin:auto;
+}
+
+.kutular {
+    display:block;
+    margin:auto;
+    width:1800px;
+    height: 900px;
+    background:#ddd;
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+    .kutu {
+    float:left;
+    display:inline-block;
+    background:#fff;
+    }
+    .k1 {
+    background:#e6e6e6;
+    width: 450px;
+    height: 900px;
+    }
+    .k2 {
+    background:#e6e6e6;
+    width: 900px;
+    height: 900px;
+    }
+
+    .k3 {
+        background:#e6e6e6;
+        width: 450px;
+        height: 900px;
+    }
+
+
+/* Kutu K1 EK1 BÖLÜMÜ */    
+.ek1{
+    height: 200px;
+    border: #ff0000 solid;
+}
+
+.ek1 .resim1{
+    height: 95px;
+    width: 95px;
+    border: #000000 solid;
+    float: left;
+}
+
+.ek1 .resim1 img{
+    height: 95px;
+    width: 95px;
+    box-sizing: border-box;
+}
+
+.ek1 .yazi1{
+    height: 95px;
+    width: 337px;
+    border: #000000 solid;
+    float:right;
+}
+
+.ek1 .yazi1 a{
+    text-decoration: none;
+}
+
+.ek1 .yazi1 p{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 680px) {
+  
+}
+/* Kutu K1 EK1 BİTİŞ */
+
+    
+/* Kutu K1 EK2 BÖLÜMÜ */
+    .ek2{
+        height: 200px;
+        border: #ff0000 solid;
+    }
+
+    .ek2 .resim2{
+        height: 95px;
+        width: 95px;
+        border: #000000 solid;
+        float: left;
+    }
+    
+    .ek2 .resim2 img{
+        height: 95px;
+        width: 95px;
+        box-sizing: border-box;
+    }
+    
+    .ek2 .yazi2{
+        height: 95px;
+        width: 337px;
+        border: #000000 solid;
+        float:right;
+    }
+    
+    .ek2 .yazi2 a{
+        text-decoration: none;
+    }
+    
+    .ek2 .yazi2 p{
+        font-size: 30px;
+        margin-left: 10px;
+    }
+
+    @media screen and (max-width: 680px) {
+    
+    }
+/* Kutu K1 EK2 BÖLÜMÜ BİTİŞ */
+
+
+/* Kutu K1 EK3 BÖLÜMÜ */
+.ek3{
+    height: 200px;
+    border: #ff0000 solid;
+}
+
+.ek3 .resim3{
+    height: 95px;
+    width: 95px;
+    border: #000000 solid;
+    float: left;
+}
+
+.ek3 .resim3 img{
+    height: 95px;
+    width: 95px;
+    box-sizing: border-box;
+}
+
+.ek3 .yazi3{
+    height: 95px;
+    width: 337px;
+    border: #000000 solid;
+    float:right;
+}
+
+.ek3 .yazi3 a{
+    text-decoration: none;
+}
+
+.ek3 .yazi3 p{
+    font-size: 30px;
+    margin-left: 10px;
+}
+    
+    @media screen and (max-width: 680px) {
+     
+    }
+/* Kutu K1 EK3 BÖLÜMÜ BİTİŞ */
+
+
+/* Kutu K1 EK4 BÖLÜMÜ */
+.ek4{
+    height: 171px;
+    border: #ff0000 solid;
+}
+
+.ek4 .resim4{
+    height: 95px;
+    width: 95px;
+    border: #000000 solid;
+    float: left;
+}
+
+.ek4 .resim4 img{
+    height: 95px;
+    width: 95px;
+    box-sizing: border-box;
+}
+
+.ek4 .yazi4{
+    height: 95px;
+    width: 337px;
+    border: #000000 solid;
+    float:right;
+}
+
+.ek4 .yazi4 a{
+    text-decoration: none;
+}
+
+.ek4 .yazi4 p{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+    @media screen and (max-width: 680px) {
+      
+    }
+
+/* Kutu K1 EK4 BÖLÜMÜ BİTİŞ */
+
+
+/* Kutu K1 EK5 BÖLÜMÜ BAŞLANGIÇ */
+
+.ek5{
+    height: 100px;
+    border: #ff0000 solid;
+}
+
+.ek5 .resim5{
+    height: 95px;
+    width: 95px;
+    border: #000000 solid;
+    float: left;
+}
+
+.ek5 .resim5 img{
+    height: 95px;
+    width: 95px;
+    box-sizing: border-box;
+}
+
+.ek5 .yazi5{
+    height: 95px;
+    width: 337px;
+    border: #000000 solid;
+    float:right;
+}
+
+.ek5 .yazi5 a{
+    text-decoration: none;
+}
+
+.ek5 .yazi5 p{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+
+@media screen and (max-width: 680px) {
+  
+}
+/* Kutu K1 EK5 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K2 BÖLÜMÜ BAŞLANGIÇ */
+
+/* Kutu K2 EK6 BÖLÜMÜ BAŞLANGIÇ */
+.ek6{
+    height: 77px;
+    border: #ff0000 solid;
+}
+
+.ek6 p{
+    font-size: 36px;
+    text-align: left;
+}
+
+/* Kutu K2 EK6 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K2 EK7 BÖLÜMÜ BAŞLANGIÇ */
+.ek7{
+    height: 100px;
+    border: #ff0000 solid;
+}
+
+.yazi1{
+    width: 350px;
+    border: #ff0000 solid;
+    float: left;
+}
+
+.ek7 .yazi1 p{
+    font-size: 30px;
+    text-align: left;
+}
+
+.yukle{
+    width: 532px;
+    height: 96px;
+    border: #000000 solid;
+    float: right;
+    text-align: right;
+}
+
+.yukle p{
+    font-size: 15px;
+}
+
+/* Kutu K2 EK7 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K2 EK8 BÖLÜMÜ BAŞLANGIÇ */
+.ek8{
+    height: 300px;
+    border: #ff0000 solid;
+}
+
+/* Kutu K2 EK8 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K2 EK9 BÖLÜMÜ BAŞLANGIÇ */
+.ek9{
+    height: 400px;
+    border: #ff0000 solid;
+}
+
+/* Kutu K2 EK9 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K3 EK10 BÖLÜMÜ BAŞLANGIÇ */
+.ek10{
+    height: 77px;
+    border: #ff0000 solid;
+}
+
+/* Kutu K3 EK10 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K3 EK11 BÖLÜMÜ BAŞLANGIÇ */
+.ek11{
+    height: 100px;
+    border: #ff0000 solid;
+}
+
+/* Kutu K3 EK11 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K3 EK12 BÖLÜMÜ BAŞLANGIÇ */
+.ek12{
+    height: 300px;
+    border: #ff0000 solid;
+}
+
+/* Kutu K3 EK12 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K3 EK13 BÖLÜMÜ BAŞLANGIÇ */
+.ek13{
+    height: 95px;
+    border: #ff0000 solid;
+}
+
+/* Kutu K3 EK13 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K3 EK14 BÖLÜMÜ BAŞLANGIÇ */
+.ek14{
+    height: 95px;
+    border: #ff0000 solid;
+}
+
+/* Kutu K3 EK14 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K3 EK15 BÖLÜMÜ BAŞLANGIÇ */
+.ek15{
+    height: 96px;
+    border: #ff0000 solid;
+}
+
+/* Kutu K3 EK15 BÖLÜMÜ BİTİŞ */
+
+/* Kutu K3 EK16 BÖLÜMÜ BAŞLANGIÇ */
+.ek16{
+    height: 96px;
+    border: #ff0000 solid;
+}
+/* Kutu K3 EK16 BÖLÜMÜ BİTİŞ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* RESPONSİVE KISMI ELLLEME */
+
+    @media screen and (max-width: 680px) {
+        .k1 p {
+            float: left;
+            text-align: center;
+            font-size: 20px;
+            text-decoration: none;
+        }
+    }
+
+    @media screen and (max-width: 680px) {
+        .k1 .logo img {
+            height: 3rem;
+            align-items: center;
+            margin-top: 5px;
+            margin-left: 5px;
+            float: left;
+        }
+    }
+
+    @media screen and (max-width: 680px) {
+      .kutu {
+      width: 100%;
+      height: 300px;
+      }
+    }
+
+    @media screen and (max-width: 680px) {
+        .k1 {
+        margin-right: 5px;
+        width: 97%;
+        margin-bottom: 0px;
+        }
+    }
+
+      @media screen and (max-width: 680px) {
+        .k2 {
+        margin-left: 5px;
+        margin-right: 5px;
+        width: 97%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        }
+    }
+    @media screen and (max-width: 680px) {
+        .k3 {
+        margin-left: 5px;
+        margin-right: 5px;
+        width: 97%;
+        margin-top: 0px;
+        }
+    }
+/* RESPONSİVE KISMI ELLLEME */
