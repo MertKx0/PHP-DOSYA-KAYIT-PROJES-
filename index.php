@@ -33,7 +33,7 @@
                 </div>
 
                 <div class="yazi2">
-                <a href="index.html"><p>Dashboard</p></a>
+                <a href="index.html"><p>Gösterge Paneli</p></a>
                 </div>
              
             </div>

@@ -33,7 +33,7 @@
                 </div>
 
                 <div class="yazi2">
-                <a href="index.html"><p>Dashboard</p></a>
+                <a href="index.html"><p>Gösterge Paneli</p></a>
                 </div>
              
             </div>
@@ -44,7 +44,7 @@
                 </div>
 
                 <div class="yazi3">
-                <a href="documents.php"><p>Documents</p></a>
+                <a href="documents.php"><p>Dosyalar</p></a>
                 </div>
                 
             </div>
@@ -55,7 +55,7 @@
                 </div>
 
                 <div class="yazi4">
-                <a href="index.html"><p>Settings</p></a>
+                <a href="index.html"><p>Ayarlar</p></a>
                 </div>
                 
             </div>
@@ -66,7 +66,7 @@
                 </div>
 
                 <div class="yazi5">
-                <a href="index.html"><p>Log Out</p></a>
+                <a href="index.html"><p>Çıkış</p></a>
                 </div>
                 
             </div>
@@ -75,12 +75,12 @@
         <div class="kutu k2">
 
         <div class="ek6">
-          <p>Documents</p>
+          <p>Dosyalar</p>
           </div>
           
           <div class="ek7">
           <div class="yazi1">
-            <p>My Files</p>
+            <p>Dosyalarım</p>
           </div>
           <div class="yukle">
           <form method="POST" name="kullanici" id="kullanici" action="html php/baglanti.php" enctype="multipart/form-data">
