@@ -113,11 +113,7 @@
           </div>
           
           <div class="ek11">
-       kameralar
-       admin
-           bel11dah16
-          kamera açılma ip si 192.168.1.108
-          setup network tcp/ip girilicek
+
           </div>
 
           <div class="ek12">
