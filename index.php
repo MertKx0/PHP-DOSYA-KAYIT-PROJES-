@@ -44,7 +44,7 @@
                 </div>
 
                 <div class="yazi3">
-                <a href="documents.php"><p>Documents</p></a>
+                <a href="documents.php"><p>Dosyalar</p></a>
                 </div>
                 
             </div>
@@ -55,7 +55,7 @@
                 </div>
 
                 <div class="yazi4">
-                <a href="index.html"><p>Settings</p></a>
+                <a href="index.html"><p>Ayarlar</p></a>
                 </div>
                 
             </div>
@@ -66,7 +66,7 @@
                 </div>
 
                 <div class="yazi5">
-                <a href="index.html"><p>Log Out</p></a>
+                <a href="index.html"><p>Çıkış</p></a>
                 </div>
                 
             </div>
