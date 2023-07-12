@@ -21,7 +21,7 @@
             <div class="resim1">
                     <img src="images/logo.ico">
                 </div>
-djabjkdnasjkdna
+                
                 <div class="yazi1">
                 <a href="index.php"><p>Web Paylaşım</p></a>
                 </div>
