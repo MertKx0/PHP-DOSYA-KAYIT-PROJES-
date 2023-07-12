@@ -74,8 +74,8 @@
 }
 
 .ek1 .yazi1 p{
-    font-size: 30px;
-    margin-left: 10px;
+    font-size: 25px;
+    margin-left: 5px;
 }
 
 @media screen and (max-width: 680px) {
@@ -115,8 +115,9 @@
     }
     
     .ek2 .yazi2 p{
-        font-size: 30px;
-        margin-left: 10px;
+        font-size: 25px;
+        margin-left: 5px;
+ 
     }
 
     @media screen and (max-width: 680px) {
