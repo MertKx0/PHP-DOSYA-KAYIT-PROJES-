@@ -14,7 +14,7 @@
 .kutular {
     display:block;
     margin:auto;
-    width:1800px;
+    width:1200px;
     height: 900px;
     background:#ddd;
     margin-top:50px;
@@ -27,18 +27,18 @@
     }
     .k1 {
     background:#e6e6e6;
-    width: 450px;
+    width: 250px;
     height: 900px;
     }
     .k2 {
     background:#e6e6e6;
-    width: 900px;
+    width: 700px;
     height: 900px;
     }
 
     .k3 {
         background:#e6e6e6;
-        width: 450px;
+        width: 250px;
         height: 900px;
     }
 
@@ -64,7 +64,7 @@
 
 .ek1 .yazi1{
     height: 95px;
-    width: 337px;
+    width: 137px;
     border: #000000 solid;
     float:right;
 }
@@ -105,7 +105,7 @@
     
     .ek2 .yazi2{
         height: 95px;
-        width: 337px;
+        width: 137px;
         border: #000000 solid;
         float:right;
     }
@@ -146,7 +146,7 @@
 
 .ek3 .yazi3{
     height: 95px;
-    width: 337px;
+    width: 137px;
     border: #000000 solid;
     float:right;
 }
@@ -187,7 +187,7 @@
 
 .ek4 .yazi4{
     height: 95px;
-    width: 337px;
+    width: 137px;
     border: #000000 solid;
     float:right;
 }
@@ -230,7 +230,7 @@
 
 .ek5 .yazi5{
     height: 95px;
-    width: 337px;
+    width: 137px;
     border: #000000 solid;
     float:right;
 }

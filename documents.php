@@ -15,7 +15,7 @@
 <body>
 <div class="menuler">
 
-    <div class="kutular1">
+    <div class="kutular">
         <div class="kutu k1">
             <div class="ek1">
             <div class="resim1">
@@ -113,8 +113,11 @@
           </div>
           
           <div class="ek11">
-       
-           
+       kameralar
+       admin
+           bel11dah16
+          kamera açılma ip si 192.168.1.108
+          setup network tcp/ip girilicek
           </div>
 
           <div class="ek12">
