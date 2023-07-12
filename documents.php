@@ -15,7 +15,7 @@
 <body>
 <div class="menuler">
 
-    <div class="kutular1">
+    <div class="kutular">
         <div class="kutu k1">
             <div class="ek1">
             <div class="resim1">
