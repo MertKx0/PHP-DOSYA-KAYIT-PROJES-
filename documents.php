@@ -109,7 +109,15 @@
          <div class="kutu k3">
 
          <div class="ek10">
-          
+
+         <form method="GET" action="html php/deneme.php">
+         <input type="submit" name="dosya" value="klasör">
+    
+         </form>
+         
+        
+      
+         
           </div>
           
           <div class="ek11">
