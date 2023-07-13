@@ -1,5 +1,3 @@
-
-
 .menuler{
     width: 100%;
     height: 100%;
@@ -27,18 +25,18 @@
     }
     .k1 {
     background:#e6e6e6;
-    width: 25%;
+    width: 250px;
     height: 900px;
     }
     .k2 {
     background:#e6e6e6;
-    width: 50%;
+    width: 700px;
     height: 900px;
     }
 
     .k3 {
         background:#e6e6e6;
-        width: 25%;
+        width: 250px;
         height: 900px;
     }
 
@@ -64,7 +62,7 @@
 
 .ek1 .yazi1{
     height: 95px;
-    width: 337px;
+    width: 137px;
     border: #000000 solid;
     float:right;
 }
@@ -74,8 +72,8 @@
 }
 
 .ek1 .yazi1 p{
-    font-size: 30px;
-    margin-left: 10px;
+    font-size: 25px;
+    margin-left: 5px;
 }
 
 @media screen and (max-width: 680px) {
@@ -105,7 +103,7 @@
     
     .ek2 .yazi2{
         height: 95px;
-        width: 337px;
+        width: 137px;
         border: #000000 solid;
         float:right;
     }
@@ -115,8 +113,9 @@
     }
     
     .ek2 .yazi2 p{
-        font-size: 30px;
-        margin-left: 10px;
+        font-size: 25px;
+        margin-left: 5px;
+ 
     }
 
     @media screen and (max-width: 680px) {
@@ -146,7 +145,7 @@
 
 .ek3 .yazi3{
     height: 95px;
-    width: 337px;
+    width: 137px;
     border: #000000 solid;
     float:right;
 }
@@ -156,8 +155,8 @@
 }
 
 .ek3 .yazi3 p{
-    font-size: 30px;
-    margin-left: 10px;
+    font-size: 25px;
+    margin-left: 5px;
 }
     
     @media screen and (max-width: 680px) {
@@ -187,7 +186,7 @@
 
 .ek4 .yazi4{
     height: 95px;
-    width: 337px;
+    width: 137px;
     border: #000000 solid;
     float:right;
 }
@@ -230,7 +229,7 @@
 
 .ek5 .yazi5{
     height: 95px;
-    width: 337px;
+    width: 137px;
     border: #000000 solid;
     float:right;
 }
