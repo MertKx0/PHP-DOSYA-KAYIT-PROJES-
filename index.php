@@ -73,14 +73,18 @@
         </div>
         
         <div class="kutu k2">
-        <form method="POST" name="kullanici" id="kullanici" action="baglanti.php">
+
+        <div class="kayit">
+
+        <form method="POST" name="kullanici" id="kullanici" action="kayit.php">
                 <input type="text" name="adi" id="adi" required placeholder="Adınızı Giriniz">
                 <input type="password" name="sifre" required id="sifre" placeholder="Şifrenizi Giriniz">
                 <input type="submit" name="kaydet" id="kaydet" value="Kaydet">
-            </form>
+        </form>
 
+        </div>
 
-
+        <iframe src="https://drive.google.com/embeddedfolderview?id=1uUaHpL8CFXhyBYvYT5r1PCU0-yRX1rvM#grid" width="100%" height="500" frameborder="0"></iframe>
          
          
         </div>
